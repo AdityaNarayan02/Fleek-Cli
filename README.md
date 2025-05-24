@@ -69,10 +69,9 @@ fleek login
 fleek projects create
 ```
 
-* This will promt u to enter a project name: Enter anything u like:
+* This will promt u to enter a project name: Enter anything u like
 
-
-* 🔺🔺 If u see somethink like that (check ss given below), than dont do anythink, just do next process of `Set up a simple page`
+*  Just do next process of `Set up a simple page`
 
 
 # **Set up a simple page**
@@ -115,9 +114,6 @@ fleek sites init
 
   * This will promt `✔ Select a format for saving the site's configuration:`     just select  `JSON (fleek.config.json)` & Enter
 
-  * Check the below given SCREENSHOT for more clarification
-
- 
 
 # **Deploy the Fleek site**
 
@@ -127,7 +123,6 @@ fleek sites deploy
 
 
 
-Done!⚕
 
 
 
