@@ -7,12 +7,6 @@ We are going to run Fleek lightning Cli
 - A Linux based system(wsl,Ubuntu etc)
 
 
-<div align="center">
-
-# 👨🏻‍💻 **Fleek CLI Guide** 👨🏻‍💻
-
-</div>
-
 
 
 # **Pre-Requirements 🛠**
